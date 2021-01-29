@@ -1,0 +1,7 @@
+.nat-footer {
+    grid-row-start: -2;
+    grid-row-end: -1;
+    grid-column: 1/ -1;
+
+    background-color: gray;
+}
