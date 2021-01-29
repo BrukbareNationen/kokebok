@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kokebok/static/css/main.cd252647.chunk.css",
+    "main.css": "/kokebok/static/css/main.a8835c08.chunk.css",
     "main.js": "/kokebok/static/js/main.37032c32.chunk.js",
     "main.js.map": "/kokebok/static/js/main.37032c32.chunk.js.map",
     "runtime-main.js": "/kokebok/static/js/runtime-main.adb67ca3.js",
@@ -10,14 +10,14 @@
     "static/js/3.b5ec0727.chunk.js": "/kokebok/static/js/3.b5ec0727.chunk.js",
     "static/js/3.b5ec0727.chunk.js.map": "/kokebok/static/js/3.b5ec0727.chunk.js.map",
     "index.html": "/kokebok/index.html",
-    "static/css/main.cd252647.chunk.css.map": "/kokebok/static/css/main.cd252647.chunk.css.map",
+    "static/css/main.a8835c08.chunk.css.map": "/kokebok/static/css/main.a8835c08.chunk.css.map",
     "static/js/2.097659e1.chunk.js.LICENSE.txt": "/kokebok/static/js/2.097659e1.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/kokebok/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.adb67ca3.js",
     "static/js/2.097659e1.chunk.js",
-    "static/css/main.cd252647.chunk.css",
+    "static/css/main.a8835c08.chunk.css",
     "static/js/main.37032c32.chunk.js"
   ]
 }
