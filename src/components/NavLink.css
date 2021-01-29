@@ -4,12 +4,13 @@ button {
     min-height: 25px;
     min-width: 150px;
     padding: 10px;
-    font-family: 'Consolas';    font-size: 20px;   
+    font-family: 'Consolas';    font-size: 20px; 
+    color: green;  
     
   }
 
   button:hover {
-    background: #999;
+    background: rgb(170, 209, 166);
   }
 
   
