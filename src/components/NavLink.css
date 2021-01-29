@@ -1,7 +1,15 @@
 button {
     border: none;
-    background-color: rgb(160, 160, 160);
-    padding: 15px;
-    width: 100px;   
+    background-color: rgb(255, 255, 255);
+    min-height: 25px;
+    min-width: 150px;
+    padding: 10px;
+    font-family: 'Consolas';    font-size: 20px;   
     
   }
+
+  button:hover {
+    background: #999;
+  }
+
+  
