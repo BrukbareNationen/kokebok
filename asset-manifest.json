@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kokebok/static/css/main.f9d5fd1d.chunk.css",
-    "main.js": "/kokebok/static/js/main.37032c32.chunk.js",
-    "main.js.map": "/kokebok/static/js/main.37032c32.chunk.js.map",
+    "main.js": "/kokebok/static/js/main.6b5d3c6b.chunk.js",
+    "main.js.map": "/kokebok/static/js/main.6b5d3c6b.chunk.js.map",
     "runtime-main.js": "/kokebok/static/js/runtime-main.adb67ca3.js",
     "runtime-main.js.map": "/kokebok/static/js/runtime-main.adb67ca3.js.map",
     "static/js/2.097659e1.chunk.js": "/kokebok/static/js/2.097659e1.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.adb67ca3.js",
     "static/js/2.097659e1.chunk.js",
     "static/css/main.f9d5fd1d.chunk.css",
-    "static/js/main.37032c32.chunk.js"
+    "static/js/main.6b5d3c6b.chunk.js"
   ]
 }
