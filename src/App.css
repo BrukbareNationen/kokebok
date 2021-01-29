@@ -65,5 +65,12 @@
 
 .content-container {
   width: 50%;
+  min-width: 600px;
+  min-height: 1000px;
 }
 
+@media screen and  (max-width:1349px) {
+  .content-container {
+    width: 100%;
+  }
+}
