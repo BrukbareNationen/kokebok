@@ -1,3 +1,13 @@
+
+.icon-button {
+  background-color: var(--bg);  
+  transition: filter 300ms;
+}
+
+/* .icon-button:hover {
+  filter: brightness(1.2);
+} */
+
 button {
     border: none;
     background-color: rgb(255, 255, 255);

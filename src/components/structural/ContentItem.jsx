@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 
-import ReactComp from './ReactComp.js'
-import Velkommen from './Velkommen.jsx'
-import '../App.css'
+import ReactComp from '../ReactComp.js'
+import Velkommen from '../Velkommen.jsx'
+import './../../App.css'
 
 class ContentItem extends Component {
 

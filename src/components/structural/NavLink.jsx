@@ -1,5 +1,7 @@
 import React from 'react';
 import './NavLink.css';
+import './DropdownMenu.css';
+
 
 const NavLink = (props) => {
 
@@ -11,7 +13,8 @@ const NavLink = (props) => {
        
         <li>
        
-            <button onClick={changeContent}>
+            <button className="menu-item" onClick={changeContent}>
+            <span className="icon-button">{props.leftIcon}</span>
             {props.title}
             </button>
         </li>

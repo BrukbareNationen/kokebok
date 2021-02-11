@@ -1,6 +1,5 @@
 import React from 'react';
 import './Content.css';
-import ReactComp from './ReactComp.js'
 import ContentItem from './ContentItem.jsx'
 
 const Content = (props) => {   
