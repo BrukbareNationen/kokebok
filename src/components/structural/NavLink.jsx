@@ -11,13 +11,13 @@ const NavLink = (props) => {
 
     return(
        
-        <li>
+        <div>
        
             <button className="menu-item" onClick={changeContent}>
             <span className="icon-button">{props.leftIcon}</span>
             {props.title}
             </button>
-        </li>
+        </div>
 
         
     );

@@ -6,7 +6,7 @@ function Header() {
     
     return(
         <div className="nat-header">
-            <h1>Nationens kokebok!</h1>
+            <h1>NATIONENS KOKEBOK</h1>
         </div>
     );
 }
